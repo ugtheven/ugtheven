@@ -9,7 +9,7 @@ Hi, I'm a junior Front-End Developper
 
 ## 🎨 Languages and Tools:
 During my time in school, I used C/C++ (Most of the time) and Angular/NestJS (for my <a href="https://github.com/ugtheven/42Transcendence" target="_blank" rel="noreferrer">final project</a>).\
-During my first internship, I used with Typescript and ReactJS/NestJS as a Fullstack Developper.
+During my first internship as a Fullstack Developper, I used Typescript and ReactJS(With redux)/NestJS.
 
 Actually, I frequently use TS and React to improve my front-end skills and want to learn react-native.
 
