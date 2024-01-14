@@ -8,8 +8,10 @@ Hi, I'm a junior Front-End Developper
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-theveny/)
 
 ## 🎨 Languages and Tools:
-I frequently use JS/TS, React, and NestJS.\
-During my time in school, I used C, C++, and Angular.
+During my time in school, I used C/C++ (Most of the time) and Angular/NestJS (for my <a href="https://github.com/ugtheven/42Transcendence" target="_blank" rel="noreferrer">final project</a>).\
+During my first internship, I used with Typescript and ReactJS/NestJS as a Fullstack Developper.
+
+Actually, I frequently use TS and React to improve my front-end skills and want to learn react-native.
 
 ## 🛠 Tools:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
