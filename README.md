@@ -16,18 +16,3 @@ I'm a junior **Frontend Developer** based in Paris, currently focused on learnin
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-## 🔗 Connect With Me
-  <a href="https://www.linkedin.com/in/ugo-theveny/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ugtheven&style=flat-square&color=blue" alt="Profile Views" />
-  
-  *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on interesting projects.* 🚀
-</div>
-
