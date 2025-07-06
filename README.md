@@ -5,7 +5,7 @@ I'm a junior **Frontend Developer** based in Paris, currently focused on learnin
 - 💼 **Experience**: Started with full-stack development (React/NestJS) during my first internship, then specialized in front-end development.
 - 🎯 **Currently**: Employed by a company developing an EMS (Energy Management System) platform.
 
-## 🛠️ Tech Stack && Tools
+## 🛠️ Tech Stack & Tools
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
