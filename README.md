@@ -1,19 +1,33 @@
+# 👋 Hi there, I'm Ugo Theveny
+I'm a junior **Frontend Developer** based in Paris, currently focused on learning.
 
-## 🚀 About Me:
-Hi, I'm a junior Front-End Developper
+- 🎓 **Background**: Computer Science graduate with strong foundation in C/C++. Discovered web development through my final school project.
+- 💼 **Experience**: Started with full-stack development (React/NestJS) during my first internship, then specialized in front-end development.
+- 🎯 **Currently**: Employed by a company developing an EMS (Energy Management System) platform.
 
-## 🔗 My links:
+## 🛠️ Tech Stack && Tools
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ugtheven.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugo-theveny/)
+### Tools
 
-## 🎨 Languages and Tools:
-During my time in school, I used C/C++ (Most of the time) and Angular/NestJS (for my <a href="https://github.com/ugtheven/42Transcendence" target="_blank" rel="noreferrer">final project</a>).\
-During my first internship as a Fullstack Developper, I used Typescript and ReactJS(With redux)/NestJS.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Actually, I frequently use TS and React to improve my front-end skills and want to learn react-native.
 
-## 🛠 Tools:
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+## 🔗 Connect With Me
+  <a href="https://www.linkedin.com/in/ugo-theveny/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ugtheven&style=flat-square&color=blue" alt="Profile Views" />
+  
+  *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on interesting projects.* 🚀
+</div>
+
