@@ -1,9 +1,7 @@
-# 👋 Hi there, I'm Ugo Theveny
-I'm a junior **Frontend Developer** based in Paris, currently focused on learning.
+# 👋 A french Frontend Developer
+Currently working on an Energy Management System (EMS) software for Dametis and looking for new challenges.
 
-- 🎓 **Background**: Computer Science graduate with strong foundation in C/C++. Discovered web development through my final school project.
-- 💼 **Experience**: Started with full-stack development (React/NestJS) during my first internship, then specialized in front-end development.
-- 🎯 **Currently**: Employed by a company developing an EMS (Energy Management System) platform.
+📍 Based in Paris, France
 
 ## 🛠️ Tech Stack & Tools
 ### Frontend
